@@ -3787,7 +3787,7 @@
  "class": "HotspotPanoramaOverlay",
  "areas": [
   {
-   "click": "this.openLink('http://localhost/VTPetra/XI5_3', '_top')",
+   "click": "this.openLink(window.location.href+'XI5_3', '_top')",
    "class": "HotspotPanoramaOverlayArea",
    "mapColor": "#FF0000"
   }

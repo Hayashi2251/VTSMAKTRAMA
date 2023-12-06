@@ -11150,7 +11150,7 @@
  ],
  "areas": [
   {
-   "click": "this.openLink('http://localhost/VTPetra/VTXI4/', '_top')",
+   "click": "this.openLink(window.location.href+'VTXI4/', '_top')",
    "class": "HotspotPanoramaOverlayArea",
    "mapColor": "#FF0000"
   }
@@ -13872,7 +13872,7 @@
  ],
  "areas": [
   {
-   "click": "this.openLink('http://localhost/VTPetra/VTXI4/', '_top')",
+   "click": "this.openLink(window.location.href+'VTXI4/', '_top')",
    "class": "HotspotPanoramaOverlayArea",
    "mapColor": "#FF0000"
   }
