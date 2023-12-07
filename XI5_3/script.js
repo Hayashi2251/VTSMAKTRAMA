@@ -6495,7 +6495,7 @@
  "areas": [
   {
    "mapColor": "#FF0000",
-   "click": "this.openLink('https://vtsmaktrama.vercel.app/VTXI4', '_top')",
+   "click": "this.openLink('https://smaktramavt.vercel.app/VTXI4', '_top')",
    "class": "HotspotPanoramaOverlayArea"
   }
  ],
@@ -7208,7 +7208,7 @@
  "areas": [
   {
    "mapColor": "#FF0000",
-   "click": "this.openLink('https://vtsmaktrama.vercel.app/XI5_3/XI6_4/', '_top')",
+   "click": "this.openLink('https://smaktramavt.vercel.app/XI5_3/XI6_4/', '_top')",
    "class": "HotspotPanoramaOverlayArea"
   }
  ],
@@ -7254,7 +7254,7 @@
  "areas": [
   {
    "mapColor": "#FF0000",
-   "click": "this.openLink('https://vtsmaktrama.vercel.app/VTXI4', '_top')",
+   "click": "this.openLink('https://smaktramavt.vercel.app/VTXI4', '_top')",
    "class": "HotspotPanoramaOverlayArea"
   }
  ],
