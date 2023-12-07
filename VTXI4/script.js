@@ -8229,7 +8229,7 @@
  "class": "HotspotPanoramaOverlay",
  "areas": [
   {
-   "click": "this.openLink('http://localhost/VTPetra/XI5_3', '_top')",
+   "click": "this.openLink('https://vtsmaktrama.vercel.app/XI5_3', '_top')",
    "class": "HotspotPanoramaOverlayArea",
    "mapColor": "#FF0000"
   }
@@ -8275,7 +8275,7 @@
  "class": "HotspotPanoramaOverlay",
  "areas": [
   {
-   "click": "this.openLink('http://localhost/VTPetra/', '_top')",
+   "click": "this.openLink('https://vtsmaktrama.vercel.app/', '_top')",
    "class": "HotspotPanoramaOverlayArea",
    "mapColor": "#FF0000"
   }
@@ -9131,7 +9131,7 @@
  "class": "HotspotPanoramaOverlay",
  "areas": [
   {
-   "click": "this.openLink('http://localhost/VTPetra/XI5_3', '_top')",
+   "click": "this.openLink('https://vtsmaktrama.vercel.app/XI5_3', '_top')",
    "class": "HotspotPanoramaOverlayArea",
    "mapColor": "#FF0000"
   }
@@ -9177,7 +9177,7 @@
  "class": "HotspotPanoramaOverlay",
  "areas": [
   {
-   "click": "this.openLink('http://localhost/VTPetra/', '_top')",
+   "click": "this.openLink('https://vtsmaktrama.vercel.app/', '_top')",
    "class": "HotspotPanoramaOverlayArea",
    "mapColor": "#FF0000"
   }
